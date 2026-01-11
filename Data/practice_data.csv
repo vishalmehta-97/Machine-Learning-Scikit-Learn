@@ -1,0 +1,15 @@
+Name,Gender,City,Age,Salary,Experience,Passed
+Aman,Male,Delhi,25,50000,2,Yes
+Riya,Female,Mumbai,NaN,60000,3,Yes
+Rahul,Male,Bangalore,23,45000,1,No
+Anjali,Female,Delhi,28,NaN,4,Yes
+Karan,Male,Chennai,35,80000,8,Yes
+Pooja,Female,Mumbai,22,38000,NaN,No
+Arjun,Male,Bangalore,30,70000,5,Yes
+Neha,Female,Chennai,27,62000,3,Yes
+Rohit,Male,Delhi,NaN,52000,2,No
+Sneha,Female,Bangalore,24,48000,1,Yes
+Imran,Male,Mumbai,32,75000,6,No
+Isha,Female,Delhi,26,NaN,3,Yes
+Kabir,Male,Chennai,29,68000,4,Yes
+Simran,Female,Mumbai,23,42000,1,No
